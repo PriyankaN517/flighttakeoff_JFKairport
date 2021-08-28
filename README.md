@@ -1,0 +1,2 @@
+# flighttakeoff_JFKairport
+This data file contains data about flights leaving from JKF ariport between Nov 2019-Dec-2020. Taxi-Out prediction has been an important concept as it helps in calculating Runway time and directly impact the cost of the flight..In this notebook, the focus will be on Regression. Regression models are models which predict a continuous outcome like predicting taxi layout delay and we will implement the following linear regression models using scikit-learn. 
